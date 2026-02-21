@@ -61,7 +61,7 @@ function Hero() {
                     <a href="#contact" className="btn btn-primary">
                         <i className="fa-regular fa-envelope"></i> Contact Me
                     </a>
-                    <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="btn btn-outline">
+                    <a href="https://www.linkedin.com/in/ahmad-al-fajri-898095389/" target="_blank" rel="noreferrer" className="btn btn-outline">
                         <i className="fa-brands fa-linkedin-in"></i> LinkedIn
                     </a>
                 </div>
@@ -463,7 +463,7 @@ function Contact() {
                 <a href="mailto:agistadiva@gmail.com" className="contact-link-item" title="Email">
                     <i className="fa-regular fa-envelope"></i>
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="contact-link-item" title="LinkedIn">
+                <a href="https://www.linkedin.com/in/ahmad-al-fajri-898095389/" target="_blank" rel="noreferrer" className="contact-link-item" title="LinkedIn">
                     <i className="fa-brands fa-linkedin-in"></i>
                 </a>
                 <a href="https://github.com" target="_blank" rel="noreferrer" className="contact-link-item" title="GitHub">
