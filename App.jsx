@@ -460,16 +460,16 @@ function Contact() {
                 Feel free to reach out for collaboration, opportunities, or just to say hello!
             </p>
             <div className="contact-links">
-                <a href="mailto:agistadiva@gmail.com" className="contact-link-item" title="Email">
+                <a href="mailto:ahmadalfajri173@gmail.com" className="contact-link-item" title="Email">
                     <i className="fa-regular fa-envelope"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/ahmad-al-fajri-898095389/" target="_blank" rel="noreferrer" className="contact-link-item" title="LinkedIn">
                     <i className="fa-brands fa-linkedin-in"></i>
                 </a>
-                <a href="https://github.com" target="_blank" rel="noreferrer" className="contact-link-item" title="GitHub">
+                <a href="https://github.com/inven22" target="_blank" rel="noreferrer" className="contact-link-item" title="GitHub">
                     <i className="fa-brands fa-github"></i>
                 </a>
-                <a href="https://instagram.com" target="_blank" rel="noreferrer" className="contact-link-item" title="Instagram">
+                <a href="https://www.instagram.com/ahmad__alfajri" target="_blank" rel="noreferrer" className="contact-link-item" title="Instagram">
                     <i className="fa-brands fa-instagram"></i>
                 </a>
             </div>
