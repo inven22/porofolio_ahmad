@@ -393,7 +393,7 @@ function Portfolio() {
             tools: ["VS Code", "Green API", "SMTP", "Postman"],
             role: "Full Stack Developer",
             link: "#"
-        }
+        },
         {
             icon: "fa fa-diamond",
             title: "Revamp Game Diamond & PPOB Order Application",
@@ -402,7 +402,7 @@ function Portfolio() {
             tools: ["VS Code"],
             role: "Front-end Developer",
             link: "https://revamp.co.id"
-        }
+        },
         {
             icon: "fa fa-plane",
             title: "Relocate Ticket Booking Application",
@@ -411,7 +411,7 @@ function Portfolio() {
             tools: ["VS Code"],
             role: "Front-end Developer",
             link: "https://relocate.co.id/relocate"
-        }
+        },
     ];
 
     return (
