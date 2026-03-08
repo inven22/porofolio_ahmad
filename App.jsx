@@ -149,6 +149,49 @@ function ExperienceEducation() {
                         </div>
                     </div>
                 </div>
+                 <div className="exp-card">
+                        <div className="exp-card-header">
+                            <span className="exp-year">2025</span>
+                            <div className="exp-info">
+                                <h4>Full Stack Deve</h4>
+                                <span className="company">TRACER STUDI POLBAN</span>
+                            </div>
+                        </div>
+                        <div className="exp-details">
+                            <div className="exp-detail-item">
+                                Develop Scheduled Email & WhatsApps Broadcast Aplication
+                            </div>
+
+                            <div className="exp-detail-item">
+                               Technologies: ReactJs,Laravel,Selenium,SMTP,Green api,Mysql
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+             <div className="exp-card">
+                        <div className="exp-card-header">
+                            <span className="exp-year">2026 - Now</span>
+                            <div className="exp-info">
+                                <h4>Full Stack Deve</h4>
+                                <span className="company">PT Reka Cipta Solusindo</span>
+                            </div>
+                        </div>
+                        <div className="exp-details">
+                            <div className="exp-detail-item">
+                                Develop Revamp Game Diamond & PPOB Order Application
+                            </div>
+                            <div className="exp-detail-item">
+                                Develop Relocate Ticket Booking Application
+                            </div>
+
+                            <div className="exp-detail-item">
+                               Technologies: Odoo,Postgree,Digiflazz Api,Dharma Wisata Api
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
 
                 {/* Education */}
                 <div className="exp-edu-column">
