@@ -394,6 +394,24 @@ function Portfolio() {
             role: "Full Stack Developer",
             link: "#"
         }
+        {
+            icon: "fa fa-diamond",
+            title: "Revamp Game Diamond & PPOB Order Application",
+            desc: "Developed a custom Odoo front-end module for the Revamp application, contributing as a Front-End Developer. Implemented required features, added a transaction status feature, resolved transaction-related bugs, and participated in functional testing to ensure system reliability.",
+            tech: ["Odoo", "Digiflazz api", "Xendit api"],
+            tools: ["VS Code"],
+            role: "Front-end Developer",
+            link: "https://revamp.co.id"
+        }
+        {
+            icon: "fa fa-plane",
+            title: "Relocate Ticket Booking Application",
+            desc: "Developed custom Odoo modules for the Relocate application front-end, including management modules for vessels, origins, destinations, and schedules, supporting booking services for flights, trains, Pelni ships, and hotels.",
+            tech: ["Odoo", "Dharma wisata api", "Xendit api"],
+            tools: ["VS Code"],
+            role: "Front-end Developer",
+            link: "https://relocate.co.id/relocate"
+        }
     ];
 
     return (
