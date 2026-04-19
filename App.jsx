@@ -154,7 +154,7 @@ function ExperienceEducation() {
                         <div className="exp-card-header">
                             <span className="exp-year">2025</span>
                             <div className="exp-info">
-                                <h4>Full Stack Deve</h4>
+                                <h4>Full Stack Developer</h4>
                                 <span className="company">TRACER STUDI POLBAN</span>
                             </div>
                         </div>
@@ -173,7 +173,7 @@ function ExperienceEducation() {
                         <div className="exp-card-header">
                             <span className="exp-year">2026</span>
                             <div className="exp-info">
-                                <h4>Full Stack Deve</h4>
+                                <h4>Odoo developer</h4>
                                 <span className="company">PT Reka Cipta Solusindo</span>
                             </div>
                         </div>
