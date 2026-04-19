@@ -148,8 +148,9 @@ function ExperienceEducation() {
                             </div>
                         </div>
                     </div>
-                </div>
-                 <div className="exp-card">
+
+                    {/* ✅ PINDAHKAN KE DALAM COLUMN */}
+                    <div className="exp-card">
                         <div className="exp-card-header">
                             <span className="exp-year">2025</span>
                             <div className="exp-info">
@@ -165,11 +166,10 @@ function ExperienceEducation() {
                             <div className="exp-detail-item">
                                Technologies: ReactJs,Laravel,Selenium,SMTP,Green api,Mysql
                             </div>
-                            
                         </div>
                     </div>
-                </div>
-             <div className="exp-card">
+
+                    <div className="exp-card">
                         <div className="exp-card-header">
                             <span className="exp-year">2026 - Now</span>
                             <div className="exp-info">
@@ -188,7 +188,6 @@ function ExperienceEducation() {
                             <div className="exp-detail-item">
                                Technologies: Odoo,Postgree,Digiflazz Api,Dharma Wisata Api
                             </div>
-                            
                         </div>
                     </div>
                 </div>
@@ -231,7 +230,6 @@ function ExperienceEducation() {
                             <div className="exp-detail-item">
                                 Graduated with honors
                             </div>
-
                         </div>
                     </div>
                 </div>
