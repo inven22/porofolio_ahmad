@@ -414,7 +414,7 @@ function Portfolio() {
             desc: "Created UI/UX and Laravel frontend for a donation platform. Integrated RESTful APIs with Odoo backend for detailed tracking and digital payments.",
             tech: ["React js","bootstrap","css", "Odoo", "Midtrans API", "PostgreSQL"],
             tools: ["VS Code", "Postman", "Git"],
-            role: "Frontend Developer & UI/UX Designer",
+            role: "Full Stack Developer",
             link: "https://drive.google.com/drive/folders/1fh7nz3VZhJReOjNjNm8_OdTGRDyMWcNb?usp=sharing"
         },
         {
@@ -423,7 +423,7 @@ function Portfolio() {
             desc: "Developed UI/UX and Laravel frontend for Sharia banking. Features interactive dashboard charts and comprehensive customer loan/savings management.",
             tech: ["React js","bootstrap","css", "Odoo", "PostgreSQL", "PHP"],
             tools: ["VS Code", "Postman", "Git"],
-            role: "Frontend Developer & UI/UX Designer",
+            role: "Full Stack Developer",
             link: "#"
         },
         {
