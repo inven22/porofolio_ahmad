@@ -414,7 +414,7 @@ function Portfolio() {
             icon: "fa-solid fa-hand-holding-heart",
             title: "Web-based Donation and Waqaf Application",
             desc: "Created UI/UX and Laravel frontend for a donation platform. Integrated RESTful APIs with Odoo backend for detailed tracking and digital payments.",
-            tech: ["Laravel Blade", "Odoo", "Midtrans API", "PostgreSQL"],
+            tech: ["React js","bootstrap","css", "Odoo", "Midtrans API", "PostgreSQL"],
             tools: ["VS Code", "Postman", "Git"],
             role: "Frontend Developer & UI/UX Designer",
             link: "https://drive.google.com/drive/folders/1fh7nz3VZhJReOjNjNm8_OdTGRDyMWcNb?usp=sharing"
@@ -423,7 +423,7 @@ function Portfolio() {
             icon: "fa-solid fa-vault",
             title: "Simpin Syariah Application",
             desc: "Developed UI/UX and Laravel frontend for Sharia banking. Features interactive dashboard charts and comprehensive customer loan/savings management.",
-            tech: ["Laravel Blade", "Odoo", "PostgreSQL", "PHP"],
+            tech: ["React js","bootstrap","css", "Odoo", "PostgreSQL", "PHP"],
             tools: ["VS Code", "Postman", "Git"],
             role: "Frontend Developer & UI/UX Designer",
             link: "#"
