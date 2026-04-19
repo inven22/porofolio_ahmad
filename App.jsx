@@ -171,7 +171,7 @@ function ExperienceEducation() {
 
                     <div className="exp-card">
                         <div className="exp-card-header">
-                            <span className="exp-year">2026 - Now</span>
+                            <span className="exp-year">2026</span>
                             <div className="exp-info">
                                 <h4>Full Stack Deve</h4>
                                 <span className="company">PT Reka Cipta Solusindo</span>
